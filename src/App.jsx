@@ -7,6 +7,7 @@ import Experience from './components/Experience'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import './mobile.css'
 
 function App() {
   return (
@@ -25,3 +26,5 @@ function App() {
 }
 
 export default App
+
+import './mobile.css'
